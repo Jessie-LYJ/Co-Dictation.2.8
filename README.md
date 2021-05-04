@@ -29,7 +29,7 @@
 
 ###### （1）首页
 
-![](F:\codictation\collection\final project\codictation\codictation2.0\Codictation\images\Home.png)
+![Home](https://github.com/Jessie-LYJ/Co-Dictation.2.8/blob/master/images/Home.png)
 
 ###### （2）任务卡片页
 
@@ -37,9 +37,9 @@
 
 ###### （3）任务详情页
 
-![](F:\codictation\collection\final project\codictation\codictation2.0\Codictation\images\Diff-main-task-teacher.png)
+![Task](https://github.com/Jessie-LYJ/Co-Dictation.2.8/blob/master/images/Diff-main-task-teacher.png)
 
 ###### （4）个人中心页（老师）
 
-![](F:\codictation\collection\final project\codictation\codictation2.0\Codictation\images\Teacher center.png)
+![Management Center](https://github.com/Jessie-LYJ/Co-Dictation.2.8/blob/master/images/Teacher%20center.png)
 
