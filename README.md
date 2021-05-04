@@ -33,7 +33,7 @@
 
 ###### （2）任务卡片页
 
-![](F:\codictation\collection\final project\codictation\codictation2.0\Codictation\images\Dictations-home.png)
+![Dictations-home](https://github.com/Jessie-LYJ/Co-Dictation.2.8/blob/master/images/Dictations-home.png)
 
 ###### （3）任务详情页
 
